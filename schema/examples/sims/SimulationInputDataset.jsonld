@@ -48,9 +48,10 @@
           },
           {
             "@id":"/sac_60_100.0_75600_QGSII_flat/DAT000703-0703-00000000144.input#dataservice",
-            "@type":"DataService","conformsTo":"https://www.iana.org/assignments/media-types/application/cdmi-object",
+            "@type":"DataService",
             "title":"sac_60_100.0_75600_QGSII_flat_DAT000703-0703-00000000144.input_CDMI",
             "endpointURL":"HANDLECDMI/sac_60_100.0_75600_QGSII_flat/DAT000703-0703-00000000144.input",
+            "conformsTo":"https://www.iana.org/assignments/media-types/application/cdmi-object",
             "servesDataset":"/sac_60_100.0_75600_QGSII_flat/DAT000703-0703-00000000144.input"
           },
           {

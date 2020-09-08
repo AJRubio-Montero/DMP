@@ -84,7 +84,8 @@
             "format":"http://publications.europa.eu/resource/authority/file-type/TXT",
             "creator":{
                         "@id":"https://orcid.org/0000-0001-6497-753X",
-                        "@type":"lago:Person"}
+                        "@type":"lago:Person"
+                      }
           }
-]
+        ]
 }
